@@ -15,7 +15,7 @@ The network initially uses the primary WAN path through R2-PRIMARY.
 The routing table shows that the data center network is reached through
 the primary R2-PRIMARY path.
 
-![Normal Routing](screenshots/01-normal-routing.png)
+![Normal Routing](screenshots/01-norrmal-routing.png)
 
 ## 3. Primary Link Failure
 
